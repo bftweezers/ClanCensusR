@@ -1,0 +1,11 @@
+Name	Breed	Gender	P_Color	P_Gene	S_Color	S_Gene	T_Color	T_Gene	Element
+Lan	Skydancer	M	Spearmint	Tide	Abyss	Constellation	Navy	Flecks	Earth
+Renolo	Sandsurge	M	Pumpkin	Cherub	Caramel	Blaze	Driftwood	Augment	Lightning
+Rahal	Coatl	M	Azure	Harlequin	Bronze	Safari	Azure	Glowtail	Arcane
+Nenya	Aether	F	Rose	Clown	Camo	Blend	Camo	Wish	Arcane
+Maokai	Tundra	F	Blue	Falcon	Avocado	Weaver	Blush	Spines	Plague
+Tors	Auraboa	M	Mist	Mochlus	Caribbean	Seraph	Orca	Spines	Nature
+Cumulus	Gaoler	F	Charcoal	Caterpillar	Charcoal	Rosette	Charcoal	Wintercoat	Earth
+Chait	Tundra	F	Carrot	Falcon	Carrot	Lode	Carrot	Underbelly	Nature
+Serania	Pearlcatcher	F	Stonewash	Lionfish	Fire	Tear	Flint	Smirch	Water
+Fluxwing	Tundra	M	Ruby	Tide	Cornflower	Morph	Blood	Ghost	Wind
