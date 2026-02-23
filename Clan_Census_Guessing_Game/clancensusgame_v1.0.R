@@ -1,4 +1,4 @@
-# source("clancensusgame.R")
+# source("clancensusgame_v1.0.R")
  
 cat("\nHello! Welcome to the Clan Census Guessing Game! (v1.0)\n")
  
