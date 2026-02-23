@@ -30,7 +30,7 @@ On your computer using your preferred spreadsheet editor, create a table contain
 
 Fill out your clan's info and save it as a tab-delimited text file. You can find a sample of what the file should look like in
 
-*censusgame_sampledata.txt*
+*census_sampledata.txt*
 
 **Using weird characters may make the game unable to read your file. Stick to only name formats allowed on the site (letters only, no spaces).**
 
